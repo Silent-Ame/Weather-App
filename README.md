@@ -40,5 +40,5 @@ display the weather, temperature or humidity, wind, 1 week forecast...
 - chart precipitation `in progress`
 - converter Celcius to Fahrenheit
 - high and low tide ✔️
-- lunar phase ✔️ // 04/04/21
+- lunar phase ✔️ 
 
