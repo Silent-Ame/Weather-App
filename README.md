@@ -1,10 +1,10 @@
 ![WeatherApp](https://github.com/Silent-Ame/Weather-App/blob/main/3324647.jpg)
 
 ## Introduction
-I was tired of going out and seeing what the weather was like outside. Tired of using the google weather application.
+Tired of using the google weather application. I made my own Weather Application.
 This simple weather application will only display the current weather for a given area.
 
-Also, I always wanted to know how a REST API consumption works.
+My main Goal was to Learn to use REST API.
 
 While learning NodeJS, I wanted to do something simple and fast. This project, is a web application allowing me to
 display the weather, temperature or humidity, wind, 1 week forecast...
